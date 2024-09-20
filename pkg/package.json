@@ -1,25 +1,3 @@
-{
-  "name": "symcode-webapp",
-  "collaborators": [
-    "Chris Tsang <tyt2y7@gmail.com>",
-    "Sanford Pun <punsanford@gmail.com>"
-  ],
-  "description": "Symbolic Barcode - Web App",
-  "version": "0.1.0",
-  "license": "MIT OR Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/visioniechor/symcode/"
-  },
-  "files": [
-    "symcode_webapp_bg.wasm",
-    "symcode_webapp.js",
-    "symcode_webapp.d.ts",
-    "LICENSE-APACHE",
-    "LICENSE-MIT"
-  ],
-  "module": "symcode_webapp.js",
-  "homepage": "http://www.visioniechor.org/",
-  "types": "symcode_webapp.d.ts",
-  "sideEffects": false
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9eb5257d38d572183d5ce95ca6e4a8e0b4a63a93491317f1feda188c6727b6
+size 611

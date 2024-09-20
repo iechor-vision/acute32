@@ -1,16 +1,3 @@
-{
-  "name": "symcode-app",
-  "version": "1.0.0",
-  "description": "Demo webapp for SymCode",
-  "private": true,
-  "scripts": {
-    "build": "rm ../dist/*.wasm && webpack"
-  },
-  "dependencies": {
-    "symcode": "file:../pkg",
-    "webpack": "^4.41.5"
-  },
-  "devDependencies": {
-    "webpack-cli": "^3.3.11"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f99acdb673818548c691a15bd735ef525f9143d03e6d4f4fd281a41a62d9432
+size 314
